@@ -1,0 +1,14 @@
+{
+  "destinatarios": [
+    {"id": 1, "nome": "DESTINATÁRIO 1", "email": "destinatario1@teste.com"},
+    {"id": 2, "nome": "DESTINATÁRIO 2", "email": "destinatario2@teste.com"},
+    {"id": 3, "nome": "DESTINATÁRIO 3", "email": "destinatario3@teste.com"},
+    {"id": 4, "nome": "DESTINATÁRIO 4", "email": "destinatario4@teste.com"},
+    {"id": 5, "nome": "DESTINATÁRIO 5", "email": "destinatario5@teste.com"},
+    {"id": 6, "nome": "DESTINATÁRIO 6", "email": "destinatario6@teste.com"},
+    {"id": 7, "nome": "DESTINATÁRIO 7", "email": "destinatario7@teste.com"},
+    {"id": 8, "nome": "DESTINATÁRIO 8", "email": "destinatario8@teste.com"},
+    {"id": 9, "nome": "DESTINATÁRIO 9", "email": "destinatario9@teste.com"},
+    {"id": 10, "nome": "DESTINATÁRIO 10", "email": "destinatario10@teste.com"}
+  ]
+}
